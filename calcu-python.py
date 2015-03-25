@@ -39,7 +39,7 @@ while running:
              print '\033[1;32mThuong= \033[1;m', num1/num2
 #Tinh Fibonacci			 
     elif choice == "5":
-             x = int(raw_input('Tinh F(n), Moi ban nhap x: '))
+             x = int(raw_input('Tinh F(x), Moi ban nhap x: '))
              num1=0
              num2=1
              i=1
